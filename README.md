@@ -12,8 +12,8 @@ Additionally, I redesigned the GitHub documentation to include clear, step-by-st
 The hardware files can be found in the **RubiksCubeRobot-main** repository, inside the **Hardware** folder.
 
 As a base support, I used a 28 cm x 28 cm wooden board. All the components are mounted on it using screws and washers.
-<img width="162" height="162" alt="Pic1" src="https://github.com/user-attachments/assets/a7e02409-c7f3-41cf-a8e5-c2c7d38b13b7" />
-<img width="162" height="162" alt="Pic2" src="https://github.com/user-attachments/assets/266c9808-e7a8-4745-a276-d1b3f144c74f" />
+<img width="475" height="475" alt="Pic1" src="https://github.com/user-attachments/assets/a7e02409-c7f3-41cf-a8e5-c2c7d38b13b7" />
+<img width="475" height="475" alt="Pic2" src="https://github.com/user-attachments/assets/266c9808-e7a8-4745-a276-d1b3f144c74f" />
 
 
 In this folder, you will find two Fusion 360 files if you want to explore the full assembly. However, for building the robot, you will mainly need the STL files, which contain all the parts required for 3D printing.
