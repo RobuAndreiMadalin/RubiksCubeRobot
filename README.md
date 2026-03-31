@@ -55,6 +55,9 @@ Make sure to:
 
 <img width="272" height="353" alt="act" src="https://github.com/user-attachments/assets/5facaf70-6079-4241-9b81-beec97b4d7d7" />
 
+Power Supply:
+For the servo motors, I used an external power supply rated at 5V and 5A to ensure stable operation and enough current for all components to work properly.
+
 ## 2. Software
 
 The software has been modified to work with the ESP32, making the system much more efficient compared to using an Arduino Nano with a separate Bluetooth module. Thanks to the ESP32’s built-in capabilities, the setup is simpler and more reliable.
