@@ -40,4 +40,18 @@ In this folder, you will find two Fusion 360 files if you want to explore the fu
 
 <img width="475" height="162" alt="3D_print" src="https://github.com/user-attachments/assets/9d5489df-4284-4341-8e49-20f1daf5939e" />
 
+###  Assembly
+
+Follow the layout shown in the image below to correctly position all the 3D printed parts on the wooden base.
+
+Make sure to:
+
+* Place the sliders symmetrically
+* Align the grabbers with the cube position
+* Secure all parts tightly to ensure stability during operation
+
+<img width="475" height="475" alt="structure" src="https://github.com/user-attachments/assets/3dc8e093-9273-48aa-ab30-6aff71bbc0e4" />
+
+
+
 
