@@ -58,7 +58,8 @@ Make sure to:
 
 Power Supply:
 For the servo motors, I used an external power supply rated at 5V and 5A to ensure stable operation and enough current for all components to work properly.
-<img width="272" height="353" alt="act" src="https://github.com/user-attachments/assets/5c829dee-9262-445c-9d4a-9a6d238b3dba" />
+
+<img width="400" height="520" alt="act" src="https://github.com/user-attachments/assets/5c829dee-9262-445c-9d4a-9a6d238b3dba" />
 
 
 
