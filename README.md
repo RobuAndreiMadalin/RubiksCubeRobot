@@ -64,7 +64,7 @@ The mobile application remains unchanged and works well with this setup.
 To install the application on your phone, you need to enable **Android Developer Mode** and install the app manually using a PC (sideloading).
 
 <details>
-<summary>⚙️ Pin Configuration</summary>
+<summary> Pin Configuration</summary>
 
 ```cpp
 #define RIGHT_SLIDER_PIN 13
