@@ -37,7 +37,6 @@ In this folder, you will find two Fusion 360 files if you want to explore the fu
 
 * 4x gear.stl
 
-These quantities represent all the components needed to fully assemble the robot.
 
 <img width="475" height="162" alt="3D_print" src="https://github.com/user-attachments/assets/9d5489df-4284-4341-8e49-20f1daf5939e" />
 
