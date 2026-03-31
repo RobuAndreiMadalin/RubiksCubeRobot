@@ -122,6 +122,15 @@ To install the application on your phone, you need to enable **Android Developer
    * The robot returns to the rest position
 
 
+##  Acknowledgements
+
+This project is an improved version of the original Rubik’s Cube Robot by [Yonni123](https://github.com/Yonni123/RubiksCubeRobot).
+
+I upgraded the hardware to ESP32, removed the external Bluetooth module, improved the code, and added step-by-step instructions so anyone can build it easily.
+
+Feel free to further improve on what I’ve done! Big thanks to the original creator for making this project possible.
+
+
 
 
 
