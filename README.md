@@ -18,6 +18,7 @@ As a base support, I used a 28 cm x 28 cm wooden board. All the components are m
 
 
 In this folder, you will find two Fusion 360 files if you want to explore the full assembly. However, for building the robot, you will mainly need the STL files, which contain all the parts required for 3D printing.
+<img width="475" height="475" alt="structure" src="https://github.com/user-attachments/assets/3dc8e093-9273-48aa-ab30-6aff71bbc0e4" />
 
 ### Required 3D Printed Parts
 
@@ -50,7 +51,8 @@ Make sure to:
 * Align the grabbers with the cube position
 * Secure all parts tightly to ensure stability during operation
 
-<img width="475" height="475" alt="structure" src="https://github.com/user-attachments/assets/3dc8e093-9273-48aa-ab30-6aff71bbc0e4" />
+<img width="543" height="706" alt="act" src="https://github.com/user-attachments/assets/78dc01aa-dd1c-47df-bc3d-c379d53daf60" />
+
 
 
 
