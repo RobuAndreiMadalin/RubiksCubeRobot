@@ -1,0 +1,15 @@
+2x ChannelTopMirror.stl
+2x ChannelTopNormal.stl
+
+4x Grabber-With cutout.stl
+
+2x SliderMirror.stl
+2x SliderNormal.stl
+
+4x ChannelBot.stl
+
+4x Drill_Jig.stl
+
+4x gear.stl
+
+
