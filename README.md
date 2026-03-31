@@ -19,7 +19,7 @@ As a base support, I used a 28 cm x 28 cm wooden board. All the components are m
 
 In this folder, you will find two Fusion 360 files if you want to explore the full assembly. However, for building the robot, you will mainly need the STL files, which contain all the parts required for 3D printing.
 
-### 🧩 Required 3D Printed Parts
+### Required 3D Printed Parts
 
 * 2x ChannelTopMirror.stl
 
