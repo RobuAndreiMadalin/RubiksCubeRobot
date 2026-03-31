@@ -55,8 +55,11 @@ Make sure to:
 
 <img width="272" height="353" alt="act" src="https://github.com/user-attachments/assets/5facaf70-6079-4241-9b81-beec97b4d7d7" />
 
+
 Power Supply:
 For the servo motors, I used an external power supply rated at 5V and 5A to ensure stable operation and enough current for all components to work properly.
+![859b4bd1-3f43-4b23-ad02-0c6097e07236](https://github.com/user-attachments/assets/fca9b0f0-5293-4750-b8f3-1b331a49da91)
+
 
 ## 2. Software
 
