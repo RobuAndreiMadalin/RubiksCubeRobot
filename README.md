@@ -79,6 +79,40 @@ To install the application on your phone, you need to enable **Android Developer
 
 </details>
 
+##  Workflow: Solving a Cube
+
+1. **Connection**
+
+   * User starts the app
+   * Connects to the robot via Bluetooth (HC-06 / ESP32)
+
+2. **Scan Phase**
+
+   * Open the **Scan** tab
+   * The robot rotates to expose each face
+   * User taps **"Scan Face"** for all 6 faces
+   * The app captures and processes the images
+
+3. **Processing**
+
+   * The app converts color detection into **Kociemba format**
+   * The data is sent to a two-phase solver (embedded `.jar`)
+   * An optimal move sequence is generated
+
+4. **Solving**
+
+   * User sets the desired speed
+   * Taps **"Solve"**
+   * The app sends the MOVE command with the solution sequence
+   * The ESP32 executes the servo movements
+   * The phone listens for **IDLE/BUSY** status updates
+
+5. **Done**
+
+   * The cube is solved
+   * The robot returns to the rest position
+
+
 
 
 
