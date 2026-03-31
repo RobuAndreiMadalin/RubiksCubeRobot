@@ -50,7 +50,7 @@ Make sure to:
 * Align the grabbers with the cube position
 * Secure all parts tightly to ensure stability during operation
 
-<img width="475" height="300" alt="act" src="https://github.com/user-attachments/assets/78dc01aa-dd1c-47df-bc3d-c379d53daf60" />
+<img width="475" height="250" alt="act" src="https://github.com/user-attachments/assets/78dc01aa-dd1c-47df-bc3d-c379d53daf60" />
 
 
 
