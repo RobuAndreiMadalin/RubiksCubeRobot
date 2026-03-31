@@ -15,9 +15,9 @@ static char* tokens[MAX_TOKENS];
 
 void APISetup() {
     if (!SerialBT.begin("RubikESP")) {
-        Serial.println("Eroare la pornire Bluetooth!");
+        Serial.println("Error Bluetooth!");
     } else {
-        Serial.println("Bluetooth pornit! Nume: RubikESP");
+        Serial.println("Bluetooth on Nume: RubikESP");
     }
     SerialBT.setTimeout(50);
 }
