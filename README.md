@@ -128,8 +128,9 @@ This project is an improved version of the original Rubik’s Cube Robot by [Yon
 
 I upgraded the hardware to ESP32, removed the external Bluetooth module, improved the code, and added step-by-step instructions so anyone can build it easily.
 
-Feel free to further improve on what I’ve done! Big thanks to the original creator for making this project possible.
+The mobile application used for scanning and solving the cube can be found on the original creator’s GitHub: Yonni123’s Rubik’s Cube Robot App.
 
+Feel free to further improve on what I’ve done! Big thanks to the original creator for making this project possible.
 
 
 
