@@ -55,15 +55,18 @@ Make sure to:
 
 <img width="272" height="353" alt="act" src="https://github.com/user-attachments/assets/5facaf70-6079-4241-9b81-beec97b4d7d7" />
 
-### 2. Software
+## 2. Software
 
 The software has been modified to work with the ESP32, making the system much more efficient compared to using an Arduino Nano with a separate Bluetooth module. Thanks to the ESP32’s built-in capabilities, the setup is simpler and more reliable.
 
 The mobile application remains unchanged and works well with this setup.
 
-To install the application on your phone, you need to enable Android Developer Mode and install the app manually using a PC (sideloading).
+To install the application on your phone, you need to enable **Android Developer Mode** and install the app manually using a PC (sideloading).
 
- Pin Configuration
+<details>
+<summary>⚙️ Pin Configuration</summary>
+
+```cpp
 #define RIGHT_SLIDER_PIN 13
 #define RIGHT_SPINNER_PIN 14
 #define LEFT_SLIDER_PIN 27
@@ -71,7 +74,11 @@ To install the application on your phone, you need to enable Android Developer M
 #define FRONT_SLIDER_PIN 25
 #define FRONT_SPINNER_PIN 33
 #define BACK_SLIDER_PIN 32
-#define BACK_SPINNER_PIN 19 
+#define BACK_SPINNER_PIN 19 // GPIO19
+```
+
+</details>
+
 
 
 
